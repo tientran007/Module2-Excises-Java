@@ -1,4 +1,4 @@
-package com.tientranjav;
+package com.tientranjav.exscisejaems;
 
 import java.util.Scanner;
 

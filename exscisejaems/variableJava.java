@@ -1,4 +1,4 @@
-package com.tientranjav;
+package com.tientranjav.exscisejaems;
 
 public class variableJava {
     public static void main(String[] args) {

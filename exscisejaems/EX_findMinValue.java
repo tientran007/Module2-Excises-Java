@@ -1,4 +1,4 @@
-package com.tientranjav;
+package com.tientranjav.exscisejaems;
 
 public class EX_findMinValue {
     public static void main(String[] args) {
